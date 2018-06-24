@@ -10,7 +10,7 @@
 
 ## TODO
 - [ ] Fix footer on prices section
-- [ ] Meke responsive 
+- [ ] Meke responsive
 
 ## Screenshot
-![Screenshot](https://raw.githubusercontent.com/platzi/desarrollo-web-online/master/demo/proyecto-invie.png)
+![Screenshot](https://raw.githubusercontent.com/alessbn/Invie/master/screenshot.png)

@@ -1,5 +1,16 @@
 # Invie
+[Live demo](https://alessbn.github.io/Invie/)
 
-**[Invie](https://alessbn.github.io/Invie/precios.html)** es una Página Web estática creada en el curso de [Desarrollo Web](https://platzi.com/cursos/html5-css3/) de Platzi 
+## Skills covered
+* PSD to html
+* HTML5
+* CSS3
+* Web semantic
+* Flexbox
 
-![Muckup Invie](https://raw.githubusercontent.com/platzi/desarrollo-web-online/master/demo/proyecto-invie.png)
+## TODO
+- [ ] Fix footer on prices section
+- [ ] Meke responsive 
+
+## Screenshot
+![Screenshot](https://raw.githubusercontent.com/platzi/desarrollo-web-online/master/demo/proyecto-invie.png)
